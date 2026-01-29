@@ -1,0 +1,29 @@
+using TMPro;
+using UnityEngine;
+
+
+
+public class ScoreController : MonoBehaviour
+{
+    TMP_Text TextMeshPro; //TextMeshProÇÕTMP_TextÇåpè≥ÇµÇƒÇ¢ÇÈîhê∂êÊÇ»ÇÃÇ≈ÅATMP_TextÇégÇ§
+
+    PlayerController PlayerController;
+    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    void Start()
+    {
+        TextMeshPro = GetComponent<TMP_Text>();
+        PlayerController = GetComponent<PlayerController>();
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+
+        int PlasCount = PlayerController.PlasCount * -500;
+        int MinasCount = PlayerController.MinasCount * 1000;
+
+        int TextScore = PlasCount + MinasCount;
+        TextMeshPro.text = TextScore.ToString() + "ì_";
+
+    }
+}

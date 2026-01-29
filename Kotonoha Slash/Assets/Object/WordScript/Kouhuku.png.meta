@@ -1,0 +1,1612 @@
+fileFormatVersion: 2
+guid: 23a6eddb5928c624f92d64e7bce0557e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8953053475369201025
+    second: Kouhuku_0
+  - first:
+      213: 1905662954097929450
+    second: Kouhuku_1
+  - first:
+      213: 6957003035328397963
+    second: Kouhuku_2
+  - first:
+      213: 1105556882540745558
+    second: Kouhuku_3
+  - first:
+      213: -3913679735227713690
+    second: Kouhuku_4
+  - first:
+      213: 8637614123093513075
+    second: Kouhuku_5
+  - first:
+      213: -6337882491439700874
+    second: Kouhuku_6
+  - first:
+      213: 4132788973921438501
+    second: Kouhuku_7
+  - first:
+      213: 1503130849554315260
+    second: Kouhuku_8
+  - first:
+      213: 7565920823148666506
+    second: Kouhuku_9
+  - first:
+      213: -8994330748834951876
+    second: Kouhuku_10
+  - first:
+      213: -7880234726949017190
+    second: Kouhuku_11
+  - first:
+      213: 6081090000204528396
+    second: Kouhuku_12
+  - first:
+      213: -1264692021017990132
+    second: Kouhuku_13
+  - first:
+      213: 1883235894883496839
+    second: Kouhuku_14
+  - first:
+      213: 3831105830519809425
+    second: Kouhuku_15
+  - first:
+      213: 1733439672365870038
+    second: Kouhuku_16
+  - first:
+      213: -2747930681506959523
+    second: Kouhuku_17
+  - first:
+      213: -6996591798150370916
+    second: Kouhuku_18
+  - first:
+      213: 6459653690585218274
+    second: Kouhuku_19
+  - first:
+      213: 8107457098176762640
+    second: Kouhuku_20
+  - first:
+      213: 4799324769563493070
+    second: Kouhuku_21
+  - first:
+      213: 6797636581898943613
+    second: Kouhuku_22
+  - first:
+      213: -4308908867923007793
+    second: Kouhuku_23
+  - first:
+      213: -7269092241917857193
+    second: Kouhuku_24
+  - first:
+      213: -7420647251916680891
+    second: Kouhuku_25
+  - first:
+      213: 8907243716158554828
+    second: Kouhuku_26
+  - first:
+      213: 3419480605187970543
+    second: Kouhuku_27
+  - first:
+      213: 2463794845426862557
+    second: Kouhuku_28
+  - first:
+      213: 23208616590599135
+    second: Kouhuku_29
+  - first:
+      213: 7693523667479594485
+    second: Kouhuku_30
+  - first:
+      213: 5481212921406784947
+    second: Kouhuku_31
+  - first:
+      213: 15480524304328610
+    second: Kouhuku_32
+  - first:
+      213: 8677063731393076566
+    second: Kouhuku_33
+  - first:
+      213: 1471783884078702363
+    second: Kouhuku_34
+  - first:
+      213: 4979152423355995492
+    second: Kouhuku_35
+  - first:
+      213: 3056356629348761634
+    second: Kouhuku_36
+  - first:
+      213: -1539844186184313701
+    second: Kouhuku_37
+  - first:
+      213: -392479683086655179
+    second: Kouhuku_38
+  - first:
+      213: 8861709661804474389
+    second: Kouhuku_39
+  - first:
+      213: -3373406655835491498
+    second: Kouhuku_40
+  - first:
+      213: 244836793685595123
+    second: Kouhuku_41
+  - first:
+      213: 564151986388443244
+    second: Kouhuku_42
+  - first:
+      213: 5104932659733809574
+    second: Kouhuku_43
+  - first:
+      213: 1068383544378656666
+    second: Kouhuku_44
+  - first:
+      213: 3364214741086484989
+    second: Kouhuku_45
+  - first:
+      213: -1964937766372019192
+    second: Kouhuku_46
+  - first:
+      213: -3114887444554453485
+    second: Kouhuku_47
+  - first:
+      213: 4500213765938149965
+    second: Kouhuku_48
+  - first:
+      213: -5169613369869512161
+    second: Kouhuku_49
+  - first:
+      213: -3087779089946081373
+    second: Kouhuku_50
+  - first:
+      213: 7731450476875505266
+    second: Kouhuku_51
+  - first:
+      213: 5959701968200918485
+    second: Kouhuku_52
+  - first:
+      213: -4311986018755883172
+    second: Kouhuku_53
+  - first:
+      213: -6534774992332881012
+    second: Kouhuku_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kouhuku_0
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 111
+        width: 1314
+        height: 802
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d257653b2af3c70800000000000000
+      internalID: 8953053475369201025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1010
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aece0a03c56427a10800000000000000
+      internalID: 1905662954097929450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1008
+        width: 83
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82401e966d3c8060800000000000000
+      internalID: 6957003035328397963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_3
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 916
+        width: 87
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65354de802ab75f00800000000000000
+      internalID: 1105556882540745558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1002
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6677b113401dfa9c0800000000000000
+      internalID: -3913679735227713690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 990
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373d2e9e748fed770800000000000000
+      internalID: 8637614123093513075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1002
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674a19d14715b08a0800000000000000
+      internalID: -6337882491439700874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_7
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 980
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b0d32ecad9a5930800000000000000
+      internalID: 4132788973921438501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_8
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 980
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7bd923b813cd410800000000000000
+      internalID: 1503130849554315260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_9
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 980
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ed18617ec8ff860800000000000000
+      internalID: 7565920823148666506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_10
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 980
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3dc15386d7bd2380800000000000000
+      internalID: -8994330748834951876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_11
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 980
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99a1816448c3a290800000000000000
+      internalID: -7880234726949017190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_12
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 980
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bfe5dd22f546450800000000000000
+      internalID: 6081090000204528396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_13
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 980
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ca3f8be49e27ee0800000000000000
+      internalID: -1264692021017990132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_14
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 984
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783bbce8119922a10800000000000000
+      internalID: 1883235894883496839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_15
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 923
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195af0d6472da2530800000000000000
+      internalID: 3831105830519809425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_16
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 915
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbefe6a23a6e0810800000000000000
+      internalID: 1733439672365870038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_17
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 925
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f6165ba936dd9d0800000000000000
+      internalID: -2747930681506959523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_18
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 922
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99e5d044dc17ee90800000000000000
+      internalID: -6996591798150370916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_19
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 926
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec7f5f8ecc45a950800000000000000
+      internalID: 6459653690585218274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_20
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 922
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0139b809649738070800000000000000
+      internalID: 8107457098176762640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_21
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 914
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2c0933370aa9240800000000000000
+      internalID: 4799324769563493070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_22
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 915
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c7940b47e065e50800000000000000
+      internalID: 6797636581898943613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_23
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 919
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc62be5d63ea334c0800000000000000
+      internalID: -4308908867923007793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_24
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 917
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75230f88e1ffe1b90800000000000000
+      internalID: -7269092241917857193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_25
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 912
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541170204a0940990800000000000000
+      internalID: -7420647251916680891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_26
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 907
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2067d97f2ec9b70800000000000000
+      internalID: 8907243716158554828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_27
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 912
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe511944e7f647f20800000000000000
+      internalID: 3419480605187970543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_28
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 910
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd94b11bb58213220800000000000000
+      internalID: 2463794845426862557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 727
+        height: 916
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd36c932d14725000800000000000000
+      internalID: 23208616590599135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_30
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 908
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f58e277303e4ca60800000000000000
+      internalID: 7693523667479594485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_31
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 890
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b58bbe7c1e211c40800000000000000
+      internalID: 5481212921406784947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_32
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 895
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7a810747ff63000800000000000000
+      internalID: 15480524304328610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_33
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 886
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d1c1b9d7f1b6870800000000000000
+      internalID: 8677063731393076566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_34
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 876
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fd7ac05a3dc6410800000000000000
+      internalID: 1471783884078702363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_35
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 879
+        width: 66
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465d8a49fb0891540800000000000000
+      internalID: 4979152423355995492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_36
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 711
+        width: 305
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2204e3f392c5a6a20800000000000000
+      internalID: 3056356629348761634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_37
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 860
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9498010fdf51aae0800000000000000
+      internalID: -1539844186184313701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_38
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 856
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531ef04cec1ad8af0800000000000000
+      internalID: -392479683086655179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_39
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 807
+        width: 6
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510b08e6cfd1bfa70800000000000000
+      internalID: 8861709661804474389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_40
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 0
+        width: 715
+        height: 846
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653bcf305804f21d0800000000000000
+      internalID: -3373406655835491498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_41
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 766
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3539344c5d56300800000000000000
+      internalID: 244836793685595123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_42
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 770
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60a30c1e3544d700800000000000000
+      internalID: 564151986388443244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_43
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 753
+        width: 5
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a949b9f43d58d640800000000000000
+      internalID: 5104932659733809574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_44
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 750
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97009e4c29a3de00800000000000000
+      internalID: 1068383544378656666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_45
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 364
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9b79e8b7710be20800000000000000
+      internalID: 3364214741086484989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_46
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 110
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80475ad13832bb4e0800000000000000
+      internalID: -1964937766372019192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_47
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 635
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ee1006f52b5c4d0800000000000000
+      internalID: -3114887444554453485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_48
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 0
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4af014b398f37e30800000000000000
+      internalID: 4500213765938149965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_49
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 116
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1251d6a708d148b0800000000000000
+      internalID: -5169613369869512161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_50
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 148
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a782e607410625d0800000000000000
+      internalID: -3087779089946081373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_51
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 0
+        width: 112
+        height: 665
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e50b8ee31ab4b60800000000000000
+      internalID: 7731450476875505266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_52
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 459
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5efcd3d5d15b250800000000000000
+      internalID: 5959701968200918485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_53
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 588
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fca93df8fb824c0800000000000000
+      internalID: -4311986018755883172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kouhuku_54
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 543
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8384e664c0df45a0800000000000000
+      internalID: -6534774992332881012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0fba0640829a2004bb35d925198c9c22
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Kouhuku_0: 8953053475369201025
+      Kouhuku_1: 1905662954097929450
+      Kouhuku_10: -8994330748834951876
+      Kouhuku_11: -7880234726949017190
+      Kouhuku_12: 6081090000204528396
+      Kouhuku_13: -1264692021017990132
+      Kouhuku_14: 1883235894883496839
+      Kouhuku_15: 3831105830519809425
+      Kouhuku_16: 1733439672365870038
+      Kouhuku_17: -2747930681506959523
+      Kouhuku_18: -6996591798150370916
+      Kouhuku_19: 6459653690585218274
+      Kouhuku_2: 6957003035328397963
+      Kouhuku_20: 8107457098176762640
+      Kouhuku_21: 4799324769563493070
+      Kouhuku_22: 6797636581898943613
+      Kouhuku_23: -4308908867923007793
+      Kouhuku_24: -7269092241917857193
+      Kouhuku_25: -7420647251916680891
+      Kouhuku_26: 8907243716158554828
+      Kouhuku_27: 3419480605187970543
+      Kouhuku_28: 2463794845426862557
+      Kouhuku_29: 23208616590599135
+      Kouhuku_3: 1105556882540745558
+      Kouhuku_30: 7693523667479594485
+      Kouhuku_31: 5481212921406784947
+      Kouhuku_32: 15480524304328610
+      Kouhuku_33: 8677063731393076566
+      Kouhuku_34: 1471783884078702363
+      Kouhuku_35: 4979152423355995492
+      Kouhuku_36: 3056356629348761634
+      Kouhuku_37: -1539844186184313701
+      Kouhuku_38: -392479683086655179
+      Kouhuku_39: 8861709661804474389
+      Kouhuku_4: -3913679735227713690
+      Kouhuku_40: -3373406655835491498
+      Kouhuku_41: 244836793685595123
+      Kouhuku_42: 564151986388443244
+      Kouhuku_43: 5104932659733809574
+      Kouhuku_44: 1068383544378656666
+      Kouhuku_45: 3364214741086484989
+      Kouhuku_46: -1964937766372019192
+      Kouhuku_47: -3114887444554453485
+      Kouhuku_48: 4500213765938149965
+      Kouhuku_49: -5169613369869512161
+      Kouhuku_5: 8637614123093513075
+      Kouhuku_50: -3087779089946081373
+      Kouhuku_51: 7731450476875505266
+      Kouhuku_52: 5959701968200918485
+      Kouhuku_53: -4311986018755883172
+      Kouhuku_54: -6534774992332881012
+      Kouhuku_6: -6337882491439700874
+      Kouhuku_7: 4132788973921438501
+      Kouhuku_8: 1503130849554315260
+      Kouhuku_9: 7565920823148666506
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
