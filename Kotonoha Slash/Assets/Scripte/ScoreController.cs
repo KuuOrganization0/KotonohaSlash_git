@@ -8,6 +8,8 @@ public class ScoreController : MonoBehaviour
     TMP_Text TextMeshPro; //TextMeshPro‚ÍTMP_Text‚ğŒp³‚µ‚Ä‚¢‚é”h¶æ‚È‚Ì‚ÅATMP_Text‚ğg‚¤
 
     PlayerController PlayerController;
+
+    public int TextScore;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -22,7 +24,7 @@ public class ScoreController : MonoBehaviour
         int PlasCount = PlayerController.PlasCount * -500;
         int MinasCount = PlayerController.MinasCount * 1000;
 
-        int TextScore = PlasCount + MinasCount;
+        TextScore = PlasCount + MinasCount;
         TextMeshPro.text = TextScore.ToString() + "“_";
 
     }
