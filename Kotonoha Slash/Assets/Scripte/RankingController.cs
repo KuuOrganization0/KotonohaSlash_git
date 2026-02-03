@@ -13,42 +13,46 @@ public class RankingController : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+      
         TextMeshPro = GetComponent<TMP_Text>();
         PlayerController = GetComponent<PlayerController>();
 
         Score = PlayerController.MinasCount * 1000 + PlayerController.PlasCount * -500;
 
-        if (Rank1 < Score)
+        if (Rank1 <= Score)
         {
-            Rank1 = Score;
+            Rank3 = Rank2;
+            Rank2 = Rank1;
+            
+            Rank1 = Score;    
+
         }
-        else if (Rank2 < Score && Rank1 >= Score)
+        else if (Rank2 <= Score && Rank1 > Score)
         {
+            Rank3 = Rank2;
             Rank2 = Score;
         }
-        else if (Rank3 < Score && Rank2 >= Score)
+        else if (Rank3 <= Score && Rank2 > Score)
         {
             Rank3 = Score;
         }
+
     }
 
     // Update is called once per frame
-    void Update()
-    {
-        
-    }
+   
 
-  int GiveRank1()
+  public int GiveRank1()
     {
         return Rank1;
     }
 
-    int GiveRank2() 
+    public int GiveRank2()
     {
         return Rank2;
     }
 
-    int GiveRank3()
+    public int GiveRank3()
     {
         return Rank3;
     }

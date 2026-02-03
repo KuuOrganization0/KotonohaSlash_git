@@ -1,7 +1,7 @@
 using TMPro;
 using UnityEngine;
 
-public class Rank1Controller : MonoBehaviour
+public class Rank3Controller : MonoBehaviour
 {
     TMP_Text TextMeshPro; //TextMeshPro‚ÍTMP_Text‚ğŒp³‚µ‚Ä‚¢‚é”h¶æ‚È‚Ì‚ÅATMP_Text‚ğg‚¤
     RankingController controller;
@@ -12,13 +12,13 @@ public class Rank1Controller : MonoBehaviour
     {
         TextMeshPro = GetComponent<TMP_Text>();
         controller = RankingHold.GetComponent<RankingController>();
-        
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        Score = controller.GiveRank1();
+        Score = controller.GiveRank3();
         TextMeshPro.text = Score.ToString() + "“_";
     }
 }
