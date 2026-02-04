@@ -8,7 +8,7 @@ public class PlayerController : MonoBehaviour
     WordController change = null;
     public static int PlasCount;
     public static int MinasCount;
-
+    AudioSource audioSource;
     Collider2D hit;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -18,7 +18,7 @@ public class PlayerController : MonoBehaviour
         var map = action.FindActionMap("Player"); // ActionMap名
         clickAction = map.FindAction("Left Click");     // Action名
         clickAction.Enable();//アクションを有効化
-
+        audioSource = GetComponent<AudioSource>();
 
     }
 
@@ -62,6 +62,7 @@ public class PlayerController : MonoBehaviour
                     change = hit.gameObject.GetComponent<WordController>();
                     if (change != null)
                     {
+                        audioSource.Play();
                         change.Change();
                         PlasCount++;
                     }
@@ -71,6 +72,7 @@ public class PlayerController : MonoBehaviour
                     change = hit.gameObject.GetComponent<WordController>();
                     if (change != null)
                     {
+                        audioSource.Play(); 
                         change.Change();
                         MinasCount++;
                     }
