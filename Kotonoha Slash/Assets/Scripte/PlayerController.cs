@@ -62,7 +62,7 @@ public class PlayerController : MonoBehaviour
                     change = hit.gameObject.GetComponent<WordController>();
                     if (change != null)
                     {
-                        audioSource.Play();
+                       
                         change.Change();
                         PlasCount++;
                     }
@@ -72,7 +72,7 @@ public class PlayerController : MonoBehaviour
                     change = hit.gameObject.GetComponent<WordController>();
                     if (change != null)
                     {
-                        audioSource.Play(); 
+                        
                         change.Change();
                         MinasCount++;
                     }
