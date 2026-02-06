@@ -62,7 +62,7 @@ public class PlayerController : MonoBehaviour
                     change = hit.gameObject.GetComponent<WordController>();
                     if (change != null)
                     {
-                       
+                        SEController.seController.CallSE(2);
                         change.Change();
                         PlasCount++;
                     }
@@ -72,8 +72,8 @@ public class PlayerController : MonoBehaviour
                     change = hit.gameObject.GetComponent<WordController>();
                     if (change != null)
                     {
-                        
-                        change.Change();
+                SEController.seController.CallSE(1);
+                change.Change();
                         MinasCount++;
                     }
                 }
