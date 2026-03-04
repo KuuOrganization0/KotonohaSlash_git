@@ -3,6 +3,7 @@ using UnityEngine;
 public class WordController : MonoBehaviour
 {
     static public WordController wordController;
+    BoxCollider2D box;
     public GameObject Changed;
  
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -10,10 +11,11 @@ public class WordController : MonoBehaviour
     {
        
        Rigidbody2D ri =  GetComponent<Rigidbody2D>();
+        box = GetComponent<BoxCollider2D>();
         float speed = Random.Range(1.0f, 2.0f);
         ri.gravityScale = LevelHold.levelspeed / speed;
-        
-        
+        box.isTrigger = true;
+
     }
 
    public void Change()

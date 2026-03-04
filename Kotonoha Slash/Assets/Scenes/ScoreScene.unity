@@ -299,6 +299,23 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &216001033 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 960659325017397196, guid: 60b76e991406d00459f889caa68932e5, type: 3}
+  m_PrefabInstance: {fileID: 259568422}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &216001035
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 216001033}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ac6e143c5a34bd469f89e74c5cd09ba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BantukeController
 --- !u!1001 &259568422
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -484,9 +501,17 @@ PrefabInstance:
       value: "\u756A\u4ED8\n"
       objectReference: {fileID: 0}
     - target: {fileID: 6864788190437052282, guid: 60b76e991406d00459f889caa68932e5, type: 3}
+      propertyPath: m_fontSize
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 6864788190437052282, guid: 60b76e991406d00459f889caa68932e5, type: 3}
       propertyPath: m_fontAsset
       value: 
       objectReference: {fileID: 11400000, guid: 23b4c1e737dfe7d42acb644f7c6388d4, type: 2}
+    - target: {fileID: 6864788190437052282, guid: 60b76e991406d00459f889caa68932e5, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 22
+      objectReference: {fileID: 0}
     - target: {fileID: 6864788190437052282, guid: 60b76e991406d00459f889caa68932e5, type: 3}
       propertyPath: m_sharedMaterial
       value: 
@@ -528,7 +553,10 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 1025527614896301646, guid: 60b76e991406d00459f889caa68932e5, type: 3}
       insertIndex: -1
       addedObject: {fileID: 680986971}
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 960659325017397196, guid: 60b76e991406d00459f889caa68932e5, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 216001035}
   m_SourcePrefab: {fileID: 100100000, guid: 60b76e991406d00459f889caa68932e5, type: 3}
 --- !u!224 &259568423 stripped
 RectTransform:
