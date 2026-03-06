@@ -3,7 +3,7 @@ using UnityEngine;
 public class BGMcontroller : MonoBehaviour
 {
     public AudioClip[] audioclip;
-    AudioSource audiosource;
+    public AudioSource audiosource;
     static public BGMcontroller BGMController;  //シングルトン用
     // Start is called once before the first execution of Update after the MonoBehaviour is created
    
