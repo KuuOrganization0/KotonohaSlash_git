@@ -291,6 +291,10 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4495955160777612273, guid: 60b76e991406d00459f889caa68932e5, type: 3}
+      propertyPath: m_PixelsPerUnitMultiplier
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 4906085740764175193, guid: 60b76e991406d00459f889caa68932e5, type: 3}
       propertyPath: m_Name
       value: ButtonTemp (1)
@@ -1208,6 +1212,10 @@ PrefabInstance:
     - target: {fileID: 3228050264849363190, guid: 60b76e991406d00459f889caa68932e5, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4495955160777612273, guid: 60b76e991406d00459f889caa68932e5, type: 3}
+      propertyPath: m_PixelsPerUnitMultiplier
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4906085740764175193, guid: 60b76e991406d00459f889caa68932e5, type: 3}
       propertyPath: m_Name
