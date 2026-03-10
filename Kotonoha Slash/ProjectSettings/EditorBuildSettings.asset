@@ -14,7 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ScoreScene.unity
     guid: 56ef2216e3939e347851f905f224bf6c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SetumeiScene.unity
     guid: 41611c5e18c8bb145ae5a7dd3b170222
   - enabled: 1

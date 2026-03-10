@@ -234,7 +234,7 @@ GameObject:
   - component: {fileID: 7440789917692655454}
   - component: {fileID: 8157315446283397376}
   m_Layer: 5
-  m_Name: BGMVolumeSlider
+  m_Name: BGM_Volume_Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

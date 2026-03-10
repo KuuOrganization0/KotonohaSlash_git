@@ -457,6 +457,24 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1180703655 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8888700272550521572, guid: 60b76e991406d00459f889caa68932e5, type: 3}
+  m_PrefabInstance: {fileID: 1232073087}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1180703661
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1180703655}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f7c26c3f3f70af4eba7b3446e6b7da5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AsobiController
+  AsobiPrefab: {fileID: 6190522306530941089, guid: 31bdfba5de7172644a69cd4e2a58fca1, type: 3}
 --- !u!1001 &1232073087
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -572,7 +590,7 @@ PrefabInstance:
     - target: {fileID: 3228050264849363190, guid: 60b76e991406d00459f889caa68932e5, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 445864590}
+      objectReference: {fileID: 1180703661}
     - target: {fileID: 3228050264849363190, guid: 60b76e991406d00459f889caa68932e5, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
       value: 
@@ -583,7 +601,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3228050264849363190, guid: 60b76e991406d00459f889caa68932e5, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: GoSetumei
+      value: AsobiGenerate
       objectReference: {fileID: 0}
     - target: {fileID: 3228050264849363190, guid: 60b76e991406d00459f889caa68932e5, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
@@ -591,11 +609,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3228050264849363190, guid: 60b76e991406d00459f889caa68932e5, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
-      value: GoSceneController, Assembly-CSharp
+      value: AsobiController, Assembly-CSharp
       objectReference: {fileID: 0}
     - target: {fileID: 3228050264849363190, guid: 60b76e991406d00459f889caa68932e5, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
       value: SEController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3228050264849363190, guid: 60b76e991406d00459f889caa68932e5, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3228050264849363190, guid: 60b76e991406d00459f889caa68932e5, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 3228050264849363190, guid: 60b76e991406d00459f889caa68932e5, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
@@ -636,7 +662,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 8888700272550521572, guid: 60b76e991406d00459f889caa68932e5, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1180703661}
   m_SourcePrefab: {fileID: 100100000, guid: 60b76e991406d00459f889caa68932e5, type: 3}
 --- !u!1 &1464374918
 GameObject:
