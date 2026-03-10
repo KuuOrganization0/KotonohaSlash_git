@@ -34,13 +34,9 @@ public class GoSceneController : MonoBehaviour
         SceneManager.LoadScene(2);
     }
 
-    public void GoSetumei()
-    {
-        SceneManager.LoadScene(3);
-    }
 
     public void GoLevelSet() 
     {
-        SceneManager.LoadScene(4);
+        SceneManager.LoadScene(3);
     }
 }

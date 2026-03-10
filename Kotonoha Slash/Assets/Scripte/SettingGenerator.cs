@@ -13,8 +13,8 @@ public class SettingGenerator : MonoBehaviour
         Instantiate(settingPrefab,new Vector3(0,0,0), rotate);
     }
     // Update is called once per frame
-    void Update()
+    public void DeleteSetting()
     {
-        
+        Destroy(settingPrefab);
     }
 }
