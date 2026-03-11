@@ -276,7 +276,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e9b4a32a989e1c4b8efe38942763ac7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SettingGenerator
-  settingPrefab: {fileID: 7478905295531400166, guid: f0f5466e60f19fc48843ebecf34f59e5, type: 3}
+  settingPrefab: {fileID: 674466956145260603, guid: bab4fc2325d021d4e9e3e8a090d35ece, type: 3}
   settingGeneratorPrefab: {fileID: 6590531821814559368}
 --- !u!1 &8024032089165682939
 GameObject:

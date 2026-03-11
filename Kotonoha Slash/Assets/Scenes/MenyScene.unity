@@ -647,6 +647,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Setting_Generator
       objectReference: {fileID: 0}
+    - target: {fileID: 8777411267121241362, guid: c8ef9616c66df0f42ab6dd9bbc8194ab, type: 3}
+      propertyPath: settingPrefab
+      value: 
+      objectReference: {fileID: 674466956145260603, guid: bab4fc2325d021d4e9e3e8a090d35ece, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1021,6 +1025,7 @@ MonoBehaviour:
   - {fileID: 8300000, guid: c272508409382d3458d7f5316ba6a71f, type: 3}
   - {fileID: 8300000, guid: d5b83d4d047a5d94ba7373715b0c1b50, type: 3}
   - {fileID: 8300000, guid: bbd260e304688e94ab8fa9fa3bb7f116, type: 3}
+  audiosource: {fileID: 0}
 --- !u!82 &1863484764
 AudioSource:
   m_ObjectHideFlags: 0
