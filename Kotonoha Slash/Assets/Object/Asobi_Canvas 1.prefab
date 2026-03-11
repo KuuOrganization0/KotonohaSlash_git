@@ -312,7 +312,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NewMonoBehaviourScript
   AsobiPrefab: {fileID: 6190522306530941089}
-  AsobiGenerator: {fileID: 8000209544280055658, guid: fd7b7efd2b0f33040b009af15ca22c3a, type: 3}
+  AsobiGenerator: {fileID: 1935693483448447236, guid: d985eae28cb1c7947a1fdbb001873797, type: 3}
 --- !u!1 &4283978543724858015
 GameObject:
   m_ObjectHideFlags: 0
