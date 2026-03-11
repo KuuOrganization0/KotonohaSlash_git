@@ -1,6 +1,10 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+<<<<<<<< HEAD:Kotonoha Slash/Assets/Object/Asobi_Canvas 1.prefab
 --- !u!1 &1518048813856672870
+========
+--- !u!1 &2396453955441579959
+>>>>>>>> Setting:Kotonoha Slash/Assets/Object/Asobi_Generator.prefab
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,27 +12,45 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<<< HEAD:Kotonoha Slash/Assets/Object/Asobi_Canvas 1.prefab
   - component: {fileID: 1135954094444854750}
   - component: {fileID: 1462589633797592677}
   - component: {fileID: 3782626847597865212}
+========
+  - component: {fileID: 3062920652927012565}
+  - component: {fileID: 4238616151246761836}
+  - component: {fileID: 1557539897625235592}
+  - component: {fileID: 5744569673666886074}
+  - component: {fileID: 6662016272059383958}
+  - component: {fileID: 3365506654783515325}
+>>>>>>>> Setting:Kotonoha Slash/Assets/Object/Asobi_Generator.prefab
   m_Layer: 5
-  m_Name: SetumeiBun
+  m_Name: asobi
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<<< HEAD:Kotonoha Slash/Assets/Object/Asobi_Canvas 1.prefab
 --- !u!224 &1135954094444854750
+========
+--- !u!224 &3062920652927012565
+>>>>>>>> Setting:Kotonoha Slash/Assets/Object/Asobi_Generator.prefab
 RectTransform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<<< HEAD:Kotonoha Slash/Assets/Object/Asobi_Canvas 1.prefab
   m_GameObject: {fileID: 1518048813856672870}
+========
+  m_GameObject: {fileID: 2396453955441579959}
+>>>>>>>> Setting:Kotonoha Slash/Assets/Object/Asobi_Generator.prefab
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 3, y: 3, z: 1}
+  m_LocalScale: {x: 2.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
+<<<<<<<< HEAD:Kotonoha Slash/Assets/Object/Asobi_Canvas 1.prefab
   m_Children: []
   m_Father: {fileID: 147556443944026219}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -103,7 +125,6 @@ MonoBehaviour:
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
-  m_characterHorizontalScale: 1
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
@@ -152,7 +173,7 @@ GameObject:
   - component: {fileID: 7142018186372330054}
   - component: {fileID: 4626146609557208310}
   m_Layer: 5
-  m_Name: Delete_Button
+  m_Name: Button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -179,20 +200,42 @@ RectTransform:
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &6588933333052062174
+========
+  m_Children:
+  - {fileID: 3506398863208726490}
+  m_Father: {fileID: 8784479106773012966}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: -190}
+  m_SizeDelta: {x: 160, y: 30}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &4238616151246761836
+>>>>>>>> Setting:Kotonoha Slash/Assets/Object/Asobi_Generator.prefab
 CanvasRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<<< HEAD:Kotonoha Slash/Assets/Object/Asobi_Canvas 1.prefab
   m_GameObject: {fileID: 1873704250064185275}
   m_CullTransparentMesh: 1
 --- !u!114 &6900006221968456581
+========
+  m_GameObject: {fileID: 2396453955441579959}
+  m_CullTransparentMesh: 1
+--- !u!114 &1557539897625235592
+>>>>>>>> Setting:Kotonoha Slash/Assets/Object/Asobi_Generator.prefab
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<<< HEAD:Kotonoha Slash/Assets/Object/Asobi_Canvas 1.prefab
   m_GameObject: {fileID: 1873704250064185275}
+========
+  m_GameObject: {fileID: 2396453955441579959}
+>>>>>>>> Setting:Kotonoha Slash/Assets/Object/Asobi_Generator.prefab
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
@@ -216,13 +259,21 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+<<<<<<<< HEAD:Kotonoha Slash/Assets/Object/Asobi_Canvas 1.prefab
 --- !u!114 &4610242682620920803
+========
+--- !u!114 &5744569673666886074
+>>>>>>>> Setting:Kotonoha Slash/Assets/Object/Asobi_Generator.prefab
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<<< HEAD:Kotonoha Slash/Assets/Object/Asobi_Canvas 1.prefab
   m_GameObject: {fileID: 1873704250064185275}
+========
+  m_GameObject: {fileID: 2396453955441579959}
+>>>>>>>> Setting:Kotonoha Slash/Assets/Object/Asobi_Generator.prefab
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
@@ -256,6 +307,7 @@ MonoBehaviour:
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
   m_Interactable: 1
+<<<<<<<< HEAD:Kotonoha Slash/Assets/Object/Asobi_Canvas 1.prefab
   m_TargetGraphic: {fileID: 6900006221968456581}
   m_OnClick:
     m_PersistentCalls:
@@ -263,18 +315,33 @@ MonoBehaviour:
       - m_Target: {fileID: 4626146609557208310}
         m_TargetAssemblyTypeName: AsobiController, Assembly-CSharp
         m_MethodName: DeleteAsobi
+========
+  m_TargetGraphic: {fileID: 1557539897625235592}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 3365506654783515325}
+        m_TargetAssemblyTypeName: AsobiController, Assembly-CSharp
+        m_MethodName: AsobiGenerate
+>>>>>>>> Setting:Kotonoha Slash/Assets/Object/Asobi_Generator.prefab
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
+<<<<<<<< HEAD:Kotonoha Slash/Assets/Object/Asobi_Canvas 1.prefab
           m_StringArgument: GoGame
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 4626146609557208310}
+--- !u!114 &7142018186372330054
+========
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 3365506654783515325}
         m_TargetAssemblyTypeName: AsobiController, Assembly-CSharp
-        m_MethodName: AsobiGenerateGenerator
+        m_MethodName: DeleteAsobiGenerator
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -284,13 +351,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
---- !u!114 &7142018186372330054
+--- !u!114 &6662016272059383958
+>>>>>>>> Setting:Kotonoha Slash/Assets/Object/Asobi_Generator.prefab
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<<< HEAD:Kotonoha Slash/Assets/Object/Asobi_Canvas 1.prefab
   m_GameObject: {fileID: 1873704250064185275}
+========
+  m_GameObject: {fileID: 2396453955441579959}
+>>>>>>>> Setting:Kotonoha Slash/Assets/Object/Asobi_Generator.prefab
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
@@ -299,21 +371,35 @@ MonoBehaviour:
   m_EffectColor: {r: 0.34901962, g: 0.34509805, b: 0.34117648, a: 1}
   m_EffectDistance: {x: 6, y: -6}
   m_UseGraphicAlpha: 1
+<<<<<<<< HEAD:Kotonoha Slash/Assets/Object/Asobi_Canvas 1.prefab
 --- !u!114 &4626146609557208310
+========
+--- !u!114 &3365506654783515325
+>>>>>>>> Setting:Kotonoha Slash/Assets/Object/Asobi_Generator.prefab
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<<< HEAD:Kotonoha Slash/Assets/Object/Asobi_Canvas 1.prefab
   m_GameObject: {fileID: 1873704250064185275}
+========
+  m_GameObject: {fileID: 2396453955441579959}
+>>>>>>>> Setting:Kotonoha Slash/Assets/Object/Asobi_Generator.prefab
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8f7c26c3f3f70af4eba7b3446e6b7da5, type: 3}
   m_Name: 
+<<<<<<<< HEAD:Kotonoha Slash/Assets/Object/Asobi_Canvas 1.prefab
   m_EditorClassIdentifier: Assembly-CSharp::NewMonoBehaviourScript
   AsobiPrefab: {fileID: 6190522306530941089}
-  AsobiGenerator: {fileID: 8000209544280055658, guid: fd7b7efd2b0f33040b009af15ca22c3a, type: 3}
 --- !u!1 &4283978543724858015
+========
+  m_EditorClassIdentifier: Assembly-CSharp::AsobiController
+  AsobiPrefab: {fileID: 6190522306530941089, guid: 31bdfba5de7172644a69cd4e2a58fca1, type: 3}
+  AsobiGenerator: {fileID: 8000209544280055658}
+--- !u!1 &6518981298657527130
+>>>>>>>> Setting:Kotonoha Slash/Assets/Object/Asobi_Generator.prefab
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -321,9 +407,15 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<<< HEAD:Kotonoha Slash/Assets/Object/Asobi_Canvas 1.prefab
   - component: {fileID: 3698245551684932242}
   - component: {fileID: 1617406514302748548}
   - component: {fileID: 7163281812588725734}
+========
+  - component: {fileID: 3506398863208726490}
+  - component: {fileID: 2348308277370962930}
+  - component: {fileID: 5676680131834115565}
+>>>>>>>> Setting:Kotonoha Slash/Assets/Object/Asobi_Generator.prefab
   m_Layer: 5
   m_Name: Text (TMP)
   m_TagString: Untagged
@@ -331,39 +423,62 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<<< HEAD:Kotonoha Slash/Assets/Object/Asobi_Canvas 1.prefab
 --- !u!224 &3698245551684932242
+========
+--- !u!224 &3506398863208726490
+>>>>>>>> Setting:Kotonoha Slash/Assets/Object/Asobi_Generator.prefab
 RectTransform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<<< HEAD:Kotonoha Slash/Assets/Object/Asobi_Canvas 1.prefab
   m_GameObject: {fileID: 4283978543724858015}
+========
+  m_GameObject: {fileID: 6518981298657527130}
+>>>>>>>> Setting:Kotonoha Slash/Assets/Object/Asobi_Generator.prefab
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
+<<<<<<<< HEAD:Kotonoha Slash/Assets/Object/Asobi_Canvas 1.prefab
   m_Father: {fileID: 5413102495818806127}
+========
+  m_Father: {fileID: 3062920652927012565}
+>>>>>>>> Setting:Kotonoha Slash/Assets/Object/Asobi_Generator.prefab
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
+<<<<<<<< HEAD:Kotonoha Slash/Assets/Object/Asobi_Canvas 1.prefab
 --- !u!222 &1617406514302748548
+========
+--- !u!222 &2348308277370962930
+>>>>>>>> Setting:Kotonoha Slash/Assets/Object/Asobi_Generator.prefab
 CanvasRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<<< HEAD:Kotonoha Slash/Assets/Object/Asobi_Canvas 1.prefab
   m_GameObject: {fileID: 4283978543724858015}
   m_CullTransparentMesh: 1
 --- !u!114 &7163281812588725734
+========
+  m_GameObject: {fileID: 6518981298657527130}
+  m_CullTransparentMesh: 1
+--- !u!114 &5676680131834115565
+>>>>>>>> Setting:Kotonoha Slash/Assets/Object/Asobi_Generator.prefab
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<<< HEAD:Kotonoha Slash/Assets/Object/Asobi_Canvas 1.prefab
   m_GameObject: {fileID: 4283978543724858015}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -416,7 +531,6 @@ MonoBehaviour:
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
-  m_characterHorizontalScale: 1
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
@@ -606,6 +720,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8076820843214918242}
+========
+  m_GameObject: {fileID: 6518981298657527130}
+>>>>>>>> Setting:Kotonoha Slash/Assets/Object/Asobi_Generator.prefab
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
@@ -619,7 +736,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u904A\u3073\u65B9\n\n\n\n\n"
+  m_text: "\u904A\u3073\u65B9"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 23b4c1e737dfe7d42acb644f7c6388d4, type: 2}
   m_sharedMaterial: {fileID: -8347256762071789399, guid: 23b4c1e737dfe7d42acb644f7c6388d4, type: 2}
@@ -691,7 +808,11 @@ MonoBehaviour:
   m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<<< HEAD:Kotonoha Slash/Assets/Object/Asobi_Canvas 1.prefab
 --- !u!1 &8235786638102331696
+========
+--- !u!1 &8000209544280055658
+>>>>>>>> Setting:Kotonoha Slash/Assets/Object/Asobi_Generator.prefab
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -699,6 +820,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<<< HEAD:Kotonoha Slash/Assets/Object/Asobi_Canvas 1.prefab
   - component: {fileID: 4225096025919260092}
   - component: {fileID: 8022889802932813420}
   - component: {fileID: 1861200531150036245}
@@ -706,17 +828,30 @@ GameObject:
   - component: {fileID: 7201724122545736707}
   m_Layer: 5
   m_Name: Button
+========
+  - component: {fileID: 8784479106773012966}
+  - component: {fileID: 4931610001119651073}
+  - component: {fileID: 8339858197950978984}
+  - component: {fileID: 8468506676316649064}
+  m_Layer: 5
+  m_Name: Asobi_Generator
+>>>>>>>> Setting:Kotonoha Slash/Assets/Object/Asobi_Generator.prefab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<<< HEAD:Kotonoha Slash/Assets/Object/Asobi_Canvas 1.prefab
 --- !u!224 &4225096025919260092
+========
+--- !u!224 &8784479106773012966
+>>>>>>>> Setting:Kotonoha Slash/Assets/Object/Asobi_Generator.prefab
 RectTransform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<<< HEAD:Kotonoha Slash/Assets/Object/Asobi_Canvas 1.prefab
   m_GameObject: {fileID: 8235786638102331696}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -733,18 +868,58 @@ RectTransform:
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &8022889802932813420
 CanvasRenderer:
+========
+  m_GameObject: {fileID: 8000209544280055658}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0, y: 0, z: 0}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3062920652927012565}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0, y: 0}
+--- !u!223 &4931610001119651073
+Canvas:
+>>>>>>>> Setting:Kotonoha Slash/Assets/Object/Asobi_Generator.prefab
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<<< HEAD:Kotonoha Slash/Assets/Object/Asobi_Canvas 1.prefab
   m_GameObject: {fileID: 8235786638102331696}
   m_CullTransparentMesh: 1
 --- !u!114 &1861200531150036245
+========
+  m_GameObject: {fileID: 8000209544280055658}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_RenderMode: 0
+  m_Camera: {fileID: 0}
+  m_PlaneDistance: 100
+  m_PixelPerfect: 0
+  m_ReceivesEvents: 1
+  m_OverrideSorting: 0
+  m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
+  m_VertexColorAlwaysGammaSpace: 0
+  m_AdditionalShaderChannelsFlag: 25
+  m_UpdateRectTransformForStandalone: 0
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_TargetDisplay: 0
+--- !u!114 &8339858197950978984
+>>>>>>>> Setting:Kotonoha Slash/Assets/Object/Asobi_Generator.prefab
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<<< HEAD:Kotonoha Slash/Assets/Object/Asobi_Canvas 1.prefab
   m_GameObject: {fileID: 8235786638102331696}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -770,11 +945,32 @@ MonoBehaviour:
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 3
 --- !u!114 &399543117253767529
+========
+  m_GameObject: {fileID: 8000209544280055658}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.CanvasScaler
+  m_UiScaleMode: 1
+  m_ReferencePixelsPerUnit: 100
+  m_ScaleFactor: 1
+  m_ReferenceResolution: {x: 1920, y: 1080}
+  m_ScreenMatchMode: 0
+  m_MatchWidthOrHeight: 0.5
+  m_PhysicalUnit: 3
+  m_FallbackScreenDPI: 96
+  m_DefaultSpriteDPI: 96
+  m_DynamicPixelsPerUnit: 1
+  m_PresetInfoIsWorld: 0
+--- !u!114 &8468506676316649064
+>>>>>>>> Setting:Kotonoha Slash/Assets/Object/Asobi_Generator.prefab
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<<< HEAD:Kotonoha Slash/Assets/Object/Asobi_Canvas 1.prefab
   m_GameObject: {fileID: 8235786638102331696}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -828,3 +1024,16 @@ MonoBehaviour:
   m_EffectColor: {r: 0.34901962, g: 0.34509805, b: 0.34117648, a: 1}
   m_EffectDistance: {x: 3, y: -1}
   m_UseGraphicAlpha: 1
+========
+  m_GameObject: {fileID: 8000209544280055658}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.GraphicRaycaster
+  m_IgnoreReversedGraphics: 1
+  m_BlockingObjects: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+>>>>>>>> Setting:Kotonoha Slash/Assets/Object/Asobi_Generator.prefab

@@ -3,7 +3,7 @@ using UnityEngine;
 public class SEController : MonoBehaviour
 {
     public AudioClip[] audioclip;
-    AudioSource audiosource;
+    public AudioSource audiosource;
     static public SEController seController;  //シングルトン用
                                      
     private void Awake()
