@@ -3,6 +3,7 @@ using UnityEngine;
 public class AsobiController : MonoBehaviour
 {
     public GameObject AsobiPrefab; // 遊び方の説明のプレハブ
+    public GameObject AsobiGenerator; // 遊び方のボタン
     Quaternion rotate = Quaternion.identity;　//回転なし
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -10,9 +11,17 @@ public class AsobiController : MonoBehaviour
     {
         Instantiate(AsobiPrefab, new Vector3(0, 0, 0), rotate);
     }
+    public void AsobiGenerateGenerator()
+    {
+        Instantiate(AsobiGenerator, new Vector3(0, 0, 0), rotate);
+    }
     // Update is called once per frame
     public void DeleteAsobi()
     {
         Destroy(AsobiPrefab);
+    }
+    public void DeleteAsobiGenerator()
+    {
+        Destroy(AsobiGenerator);
     }
 }

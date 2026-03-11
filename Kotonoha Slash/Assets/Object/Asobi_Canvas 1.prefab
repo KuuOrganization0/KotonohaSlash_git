@@ -272,6 +272,18 @@ MonoBehaviour:
           m_StringArgument: GoGame
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 4626146609557208310}
+        m_TargetAssemblyTypeName: AsobiController, Assembly-CSharp
+        m_MethodName: AsobiGenerateGenerator
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &7142018186372330054
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -300,6 +312,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NewMonoBehaviourScript
   AsobiPrefab: {fileID: 6190522306530941089}
+  AsobiGenerator: {fileID: 8000209544280055658, guid: fd7b7efd2b0f33040b009af15ca22c3a, type: 3}
 --- !u!1 &4283978543724858015
 GameObject:
   m_ObjectHideFlags: 0

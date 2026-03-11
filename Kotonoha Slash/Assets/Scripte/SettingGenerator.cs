@@ -5,7 +5,7 @@ using UnityEngine.UIElements;
 public class SettingGenerator : MonoBehaviour
 {
     public GameObject settingPrefab; // 設定画面のプレハブ
-    public GameObject settingGeneratorPrefab;
+    public GameObject settingGeneratorPrefab; // 設定画面のボタン
     Quaternion rotate = Quaternion.identity;　//回転なし
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
