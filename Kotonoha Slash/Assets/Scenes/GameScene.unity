@@ -297,7 +297,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4906085740764175193, guid: 60b76e991406d00459f889caa68932e5, type: 3}
       propertyPath: m_Name
-      value: ButtonTemp (1)
+      value: Score_Canvs
       objectReference: {fileID: 0}
     - target: {fileID: 6864788190437052282, guid: 60b76e991406d00459f889caa68932e5, type: 3}
       propertyPath: m_text
@@ -706,6 +706,7 @@ MonoBehaviour:
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
+  m_characterHorizontalScale: 1
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
@@ -922,6 +923,7 @@ MonoBehaviour:
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
+  m_characterHorizontalScale: 1
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
@@ -1219,7 +1221,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4906085740764175193, guid: 60b76e991406d00459f889caa68932e5, type: 3}
       propertyPath: m_Name
-      value: ButtonTemp
+      value: Time_Canvas
       objectReference: {fileID: 0}
     - target: {fileID: 6864788190437052282, guid: 60b76e991406d00459f889caa68932e5, type: 3}
       propertyPath: m_text
@@ -1274,6 +1276,7 @@ GameObject:
   m_IsActive: 1
 --- !u!212 &1962788377
 SpriteRenderer:
+  serializedVersion: 2
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -1319,6 +1322,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: -3
+  m_MaskInteraction: 0
   m_Sprite: {fileID: 5172440083647949063, guid: 5b59b5d4d761eca4fb43bab82ecd3575, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1328,7 +1332,6 @@ SpriteRenderer:
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1962788378
 Transform:
